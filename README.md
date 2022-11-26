@@ -1,0 +1,1 @@
+# renovate-go-redact-test
